@@ -15,6 +15,7 @@ public class Main {
         else{
             System.out.println("Invalid Employee type");
         }
+        sc.close();
       
     }
 
